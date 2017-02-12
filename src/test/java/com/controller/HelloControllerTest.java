@@ -20,7 +20,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 @SpringApplicationConfiguration(classes = MockServletContext.class)
 @WebAppConfiguration
 public class HelloControllerTest {
-
+//coments
 	private MockMvc mvc;
 
 	@Before
